@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RRKQQHKB
 
 [Document7]
 DocumentPath=..\..\..\circuits-support-2024\Altium Libraries\SCHLIB\HyTechFrames.SCHLIB
@@ -182,7 +182,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LMFALCVH
 
 [Document9]
 DocumentPath=..\..\..\circuits-support-2024\Altium Libraries\SCHLIB\HyTechSymbols.SCHLIB
@@ -199,7 +199,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IFLKOKMK
 
 [Document10]
 DocumentPath=Power.SchDoc
@@ -251,6 +251,268 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVOJQNVV
+
+[Document13]
+DocumentPath=STM32_display_test_board.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=..\..\..\..\Downloads\Bill of Materials-STM32_display_test_board.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for STM32_display_test_board\BOM\Bill of Materials-STM32_display_test_board.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for STM32_display_test_board\Design Rule Check - STM32_display_test_board.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for STM32_display_test_board\Pick Place\Pick Place for STM32_display_test_board.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for STM32_display_test_board\Pick Place\Pick Place for STM32_display_test_board.txt
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for STM32_display_test_board\NC Drill\STM32_display_test_board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.G1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.G1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.G2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.G2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GM128
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GM128
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for STM32_display_test_board\NC Drill\STM32_display_test_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for STM32_display_test_board\Gerber\STM32_display_test_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=..\..\..\..\Downloads\STM32_display_test_board.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for STM32_display_test_board\NC Drill\STM32_display_test_board.TXT
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Designer
@@ -1227,167 +1489,29 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=HyTechDevices.SCHLIB
-ComponentDesignItemID0=BUTTON
-ComponentSymbolReference0=BUTTON
-ComponentUpdate0=1
+ComponentDesignItemID0=CAPACITOR_?_*0402
+ComponentSymbolReference0=CAPACITOR_?_*0402
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=HyTechDevices.SCHLIB
-ComponentDesignItemID1=CAPACITOR_?_*0402
-ComponentSymbolReference1=CAPACITOR_?_*0402
+ComponentDesignItemID1=CONNECTOR_USB_C
+ComponentSymbolReference1=CONNECTOR_USB_C
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=HyTechDevices.SCHLIB
-ComponentDesignItemID2=CAPACITOR_?_*0603
-ComponentSymbolReference2=CAPACITOR_?_*0603
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=HyTechDevices.SCHLIB
-ComponentDesignItemID3=CAPACITOR_?_*0805
-ComponentSymbolReference3=CAPACITOR_?_*0805
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=HyTechDevices.SCHLIB
-ComponentDesignItemID4=CAPACITOR_?_*1206
-ComponentSymbolReference4=CAPACITOR_?_*1206
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=HyTechDevices.SCHLIB
-ComponentDesignItemID5=CONNECTOR_HEADER_4
-ComponentSymbolReference5=CONNECTOR_HEADER_4
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=HyTechDevices.SCHLIB
-ComponentDesignItemID6=CONNECTOR_ST_LINK
-ComponentSymbolReference6=CONNECTOR_ST_LINK
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=HyTechDevices.SCHLIB
-ComponentDesignItemID7=CONNECTOR_USB_C
-ComponentSymbolReference7=CONNECTOR_USB_C
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=HyTechDevices.SCHLIB
-ComponentDesignItemID8=CONNECTOR-10_MOLEX_FPC_CLAMSHELL
-ComponentSymbolReference8=CONNECTOR-10_MOLEX_FPC_CLAMSHELL
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=HyTechDevices.SCHLIB
-ComponentDesignItemID9=CONNECTOR-CAN_?_*μF_S_RA
-ComponentSymbolReference9=CONNECTOR-CAN_?_*μF_S_RA
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=HyTechDevices.SCHLIB
-ComponentDesignItemID10=CRYSTAL_SMD3225-4P
-ComponentSymbolReference10=CRYSTAL_SMD3225-4P
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=HyTechDevices.SCHLIB
-ComponentDesignItemID11=FUSE_RESETTABLE_1206
-ComponentSymbolReference11=FUSE_RESETTABLE_1206
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=HyTechDevices.SCHLIB
-ComponentDesignItemID12=INDUCTOR_1210
-ComponentSymbolReference12=INDUCTOR_1210
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=HyTechDevices.SCHLIB
-ComponentDesignItemID13=LED_7_SEGMENT_4_DIGIT
-ComponentSymbolReference13=LED_7_SEGMENT_4_DIGIT
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=HyTechDevices.SCHLIB
-ComponentDesignItemID14=LEVEL_SHIFTER_3V3_TO_5V
-ComponentSymbolReference14=LEVEL_SHIFTER_3V3_TO_5V
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=HyTechDevices.SCHLIB
-ComponentDesignItemID15=MAX7221EWG+
-ComponentSymbolReference15=MAX7221EWG+
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=HyTechDevices.SCHLIB
-ComponentDesignItemID16=NEOPIXEL_*IN-PI55QATPRPGPBPW-40
-ComponentSymbolReference16=NEOPIXEL_*IN-PI55QATPRPGPBPW-40
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=HyTechDevices.SCHLIB
-ComponentDesignItemID17=RESISTOR_?_*0603
-ComponentSymbolReference17=RESISTOR_?_*0603
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=HyTechDevices.SCHLIB
-ComponentDesignItemID18=STM32F446RET6
-ComponentSymbolReference18=STM32F446RET6
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=HyTechDevices.SCHLIB
-ComponentDesignItemID19=SWITCH_SPDT_*
-ComponentSymbolReference19=SWITCH_SPDT_*
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=HyTechDevices.SCHLIB
-ComponentDesignItemID20=TCAN1051*V-Q1
-ComponentSymbolReference20=TCAN1051*V-Q1
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=HyTechDevices.SCHLIB
-ComponentDesignItemID21=TEST_POINT
-ComponentSymbolReference21=TEST_POINT
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=HyTechDevices.SCHLIB
-ComponentDesignItemID22=TPD4E1U06DCKR
-ComponentSymbolReference22=TPD4E1U06DCKR
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=HyTechDevices.SCHLIB
-ComponentDesignItemID23=TPS54202DDCR
-ComponentSymbolReference23=TPS54202DDCR
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=HyTechFrames.SCHLIB
-ComponentDesignItemID24=FRAME
-ComponentSymbolReference24=FRAME
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-FullReplace=0
+FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
 PreserveParameterVisibility=1
-DoGraphics=0
-DoParameters=0
+DoGraphics=1
+DoParameters=1
 DoModels=1
 AddParameters=0
 RemoveParameters=0
@@ -1404,106 +1528,54 @@ ParameterName3=Comment
 ParameterUpdate3=1
 ParameterName4=Component Kind
 ParameterUpdate4=1
-ParameterName5=CURRENT_RATED
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=CURRENT_SATURATION
+ParameterName6=DeviceName
 ParameterUpdate6=1
-ParameterName7=Datasheet Link
+ParameterName7=DeviceSetName
 ParameterUpdate7=1
-ParameterName8=DCR
+ParameterName8=DKPN
 ParameterUpdate8=1
-ParameterName9=Description
+ParameterName9=GateName_1
 ParameterUpdate9=1
-ParameterName10=DESCRIPTION_1
+ParameterName10=Library Reference
 ParameterUpdate10=1
-ParameterName11=DESCRIPTION_2
+ParameterName11=LibraryName
 ParameterUpdate11=1
-ParameterName12=DESIGNER_BOARD
+ParameterName12=MANUFACTURER
 ParameterUpdate12=1
-ParameterName13=DESIGNER_FURTHER
+ParameterName13=MF
 ParameterUpdate13=1
-ParameterName14=DESIGNER_SCHEMATIC
+ParameterName14=MOPN
 ParameterUpdate14=1
-ParameterName15=DeviceName
+ParameterName15=MP
 ParameterUpdate15=1
-ParameterName16=DeviceSetName
+ParameterName16=MPN
 ParameterUpdate16=1
-ParameterName17=DKPN
+ParameterName17=Package
 ParameterUpdate17=1
-ParameterName18=ENGINEER
+ParameterName18=Price
 ParameterUpdate18=1
-ParameterName19=FREQUENCY
+ParameterName19=Purchase-URL
 ParameterUpdate19=1
-ParameterName20=GateName_1
+ParameterName20=SnapEDA_Link
 ParameterUpdate20=1
-ParameterName21=Geometry.Height
+ParameterName21=SymbolName_1
 ParameterUpdate21=1
-ParameterName22=Height
+ParameterName22=TOLERANCE
 ParameterUpdate22=1
-ParameterName23=INDUCTANCE
+ParameterName23=Value
 ParameterUpdate23=1
-ParameterName24=Library Reference
+ParameterName24=VOLTAGE
 ParameterUpdate24=1
-ParameterName25=LibraryName
-ParameterUpdate25=1
-ParameterName26=LOAD_CAPACITANCE
-ParameterUpdate26=1
-ParameterName27=MANUFACTURER
-ParameterUpdate27=1
-ParameterName28=Manufacturer_Name
-ParameterUpdate28=1
-ParameterName29=Manufacturer_Part_Number
-ParameterUpdate29=1
-ParameterName30=MF
-ParameterUpdate30=1
-ParameterName31=MOPN
-ParameterUpdate31=1
-ParameterName32=Mouser Part Number
-ParameterUpdate32=1
-ParameterName33=Mouser Price/Stock
-ParameterUpdate33=1
-ParameterName34=Mouser_Part_Number
-ParameterUpdate34=1
-ParameterName35=Mouser_Price-Stock
-ParameterUpdate35=1
-ParameterName36=MP
-ParameterUpdate36=1
-ParameterName37=MPN
-ParameterUpdate37=1
-ParameterName38=Package
-ParameterUpdate38=1
-ParameterName39=POWER
-ParameterUpdate39=1
-ParameterName40=Price
-ParameterUpdate40=1
-ParameterName41=Purchase-URL
-ParameterUpdate41=1
-ParameterName42=RESISTANCE
-ParameterUpdate42=1
-ParameterName43=REVIEWER_BOARD
-ParameterUpdate43=1
-ParameterName44=REVIEWER_FURTHER
-ParameterUpdate44=1
-ParameterName45=REVIEWER_SCHEMATIC
-ParameterUpdate45=1
-ParameterName46=SHUNT_CAPACITANCE
-ParameterUpdate46=1
-ParameterName47=SnapEDA_Link
-ParameterUpdate47=1
-ParameterName48=SymbolName_1
-ParameterUpdate48=1
-ParameterName49=TOLERANCE
-ParameterUpdate49=1
-ParameterName50=Value
-ParameterUpdate50=1
-ParameterName51=VOLTAGE
-ParameterUpdate51=1
-ParameterName52=VOLTAGE_CONTINUOUS
-ParameterUpdate52=1
-ParameterName53=VOLTAGE_MAX
-ParameterUpdate53=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0402_CAP
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=USB4110GFA
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

@@ -3,6 +3,10 @@
 # Unnecessary Files
 *.scr
 *.ulp
+*.Zip
+
+#Probably Unnecessary
+*.LOG
 
 # Backup files
 *.s#?
@@ -64,6 +68,26 @@
 *.GTO
 *.GTP
 *.GTS
+
+#Altium Gerber Files
+*.APR_LIB
+*.apr
+*.EXTREP
+*.G1
+*.G2
+*.GD*
+*.GG*
+*.GM*
+*.GBP
+*.GPB
+*.GPT
+*.REP
+*.DRR
+*.LDP
+*.drc
+
+
+
 
 # CAMOutput Folder
 **/CAMOutput

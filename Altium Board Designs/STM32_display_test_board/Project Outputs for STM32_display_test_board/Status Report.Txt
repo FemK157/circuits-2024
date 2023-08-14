@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [STM32_display_test_board.PcbDoc]
+   Generated File[Pick Place for STM32_display_test_board.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:47:36 PM On 8/14/2023

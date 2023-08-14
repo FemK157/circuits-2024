@@ -1,18 +1,16 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\walke\repos\circuits-2024\Altium Board Designs\STM32_display_test_board\STM32_display_test_board.PcbDoc
-Date     : 8/13/2023
-Time     : 9:12:51 PM
+Date     : 8/14/2023
+Time     : 12:30:48 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-   Violation between Clearance Constraint: (10.366mil < 12.992mil) Between Pad J3-(4106.063mil,4167.126mil) on Multi-Layer And Pad J3-A12(4087.953mil,4125mil) on Top Layer(SIG/PWR) 
-   Violation between Clearance Constraint: (8.263mil < 12.992mil) Between Pad J3-(4106.063mil,4167.126mil) on Multi-Layer And Pad J3-A9(4119.449mil,4125mil) on Top Layer(SIG/PWR) 
-   Violation between Clearance Constraint: (6.894mil < 12.992mil) Between Pad J3-(4106.063mil,4167.126mil) on Multi-Layer And Pad J3-B1(4099.764mil,4125mil) on Top Layer(SIG/PWR) 
-   Violation between Clearance Constraint: (10.366mil < 12.992mil) Between Pad J3-(4333.622mil,4167.126mil) on Multi-Layer And Pad J3-A1(4351.732mil,4125mil) on Top Layer(SIG/PWR) 
-   Violation between Clearance Constraint: (8.263mil < 12.992mil) Between Pad J3-(4333.622mil,4167.126mil) on Multi-Layer And Pad J3-A4(4320.236mil,4125mil) on Top Layer(SIG/PWR) 
-   Violation between Clearance Constraint: (6.894mil < 12.992mil) Between Pad J3-(4333.622mil,4167.126mil) on Multi-Layer And Pad J3-B12(4339.921mil,4125mil) on Top Layer(SIG/PWR) 
-   Violation between Clearance Constraint: (12.795mil < 12.992mil) Between Pad J3-A1(4351.732mil,4125mil) on Top Layer(SIG/PWR) And Pad J3-S1(4390.118mil,4148.228mil) on Multi-Layer 
-   Violation between Clearance Constraint: (12.795mil < 12.992mil) Between Pad J3-A12(4087.953mil,4125mil) on Top Layer(SIG/PWR) And Pad J3-S2(4049.567mil,4148.228mil) on Multi-Layer 
-Rule Violations :8
+   Violation between Clearance Constraint: (10.366mil < 12.992mil) Between Pad J3-A1(4351.89mil,4125.197mil) on Top Layer(SIG/PWR) And Pad J3-MH1(4333.779mil,4167.52mil) on Multi-Layer 
+   Violation between Clearance Constraint: (10.366mil < 12.992mil) Between Pad J3-A12(4088.11mil,4125.197mil) on Top Layer(SIG/PWR) And Pad J3-MH2(4106.221mil,4167.52mil) on Multi-Layer 
+   Violation between Clearance Constraint: (8.263mil < 12.992mil) Between Pad J3-A4(4320.394mil,4125.197mil) on Top Layer(SIG/PWR) And Pad J3-MH1(4333.779mil,4167.52mil) on Multi-Layer 
+   Violation between Clearance Constraint: (8.263mil < 12.992mil) Between Pad J3-A9(4119.606mil,4125.197mil) on Top Layer(SIG/PWR) And Pad J3-MH2(4106.221mil,4167.52mil) on Multi-Layer 
+   Violation between Clearance Constraint: (6.894mil < 12.992mil) Between Pad J3-B1(4099.921mil,4125.197mil) on Top Layer(SIG/PWR) And Pad J3-MH2(4106.221mil,4167.52mil) on Multi-Layer 
+   Violation between Clearance Constraint: (6.894mil < 12.992mil) Between Pad J3-B12(4340.079mil,4125.197mil) on Top Layer(SIG/PWR) And Pad J3-MH1(4333.779mil,4167.52mil) on Multi-Layer 
+Rule Violations :6
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -39,9 +37,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (3.89mil < 3.937mil) Between Pad J3-(4106.063mil,4167.126mil) on Multi-Layer And Pad J3-B1(4099.764mil,4125mil) on Top Layer(SIG/PWR) [Top Solder] Mask Sliver [3.89mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (3.89mil < 3.937mil) Between Pad J3-(4333.622mil,4167.126mil) on Multi-Layer And Pad J3-B12(4339.921mil,4125mil) on Top Layer(SIG/PWR) [Top Solder] Mask Sliver [3.89mil]
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
 Rule Violations :0
@@ -56,6 +52,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 10
+Violations Detected : 6
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
