@@ -3,10 +3,10 @@
 # Unnecessary Files
 *.scr
 *.ulp
-*.Zip
 
 #Probably Unnecessary
 *.LOG
+*.Zip
 
 # Backup files
 *.s#?
